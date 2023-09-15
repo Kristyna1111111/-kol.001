@@ -1,0 +1,16 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: blueviolet;
+    padding: 10px;
+}
+.grid-item {
+    background-color: aqua;
+    border: 1rem solid cadetblue;
+    padding: 20rem;
+    font-size: 30rem;
+    text-align: center;
+}
+h1:hover {
+    background-color: aquamarine;
+}
